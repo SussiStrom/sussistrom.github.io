@@ -13,4 +13,6 @@ E-mail snickare@wghbygg.se
 ***
 Kolla vår instagram/facebook
 
+![Hammare](https://sussistrom.github.io/hammare.png)
+
 _bild/länk till instagram_
