@@ -7,14 +7,16 @@
 
 ## Kontakta oss:
 
-Telefon 070 123 45 67
+Telefon 076 800 00 25
 
-E-mail snickare@wghbygg.se
+E-mail wghbyggab@hotmail.com
 
 * * *
 
 Kolla vår instagram/facebook
 
+_*bild/länk till instagram*_
+
 ![Instagram](https://sussistrom.github.io/instagram.jpeg)
 
-_bild/länk till instagram_
+_*bild på UC märke*_
