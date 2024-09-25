@@ -1,5 +1,5 @@
 ---
-title: WGH bygg i Åmål
+title: WGH bygg
 ---
 
 ## WGH bygg:
