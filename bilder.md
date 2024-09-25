@@ -7,6 +7,6 @@ description: här kan vi lägga bilder
 
 * * *
 
-![snickare](/bilder/snickare.jpeg){: .snickare}
-![verktyg](/bilder/verktyg.png){: .verktyg}
-![snickare](/bilder/skruvmejsel.png){: .skruvmejsel}
+![snickare](/bilder/snickare.jpeg)
+![verktyg](/bilder/verktyg.png)
+![snickare](/bilder/skruvmejsel.png)
