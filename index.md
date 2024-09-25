@@ -14,6 +14,6 @@ E-mail wghbyggab@hotmail.com
 
 Kolla vår instagram/facebook
 
-[![instagram](ig_logo.png)](https://www.instagram.com/oscarweingartshofer/)
+[![instagram](ig_logo.png)](https://www.instagram.com/oscarweingartshofer/){: .instagram}
 
-![UC](/UC.png)
+![UC](/UC.png){: .uc}
