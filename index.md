@@ -14,8 +14,8 @@ E-mail wghbyggab@hotmail.com
 
 Kolla vår instagram/facebook
 
-[länk till instagram](https://www.instagram.com/oscarweingartshofer/)
+[![instagram](https://sussistrom.github.io/instagram.jpeg)](https://www.instagram.com/oscarweingartshofer/)
 
-![Instagram](https://sussistrom.github.io/instagram.jpeg)
+![UC](https://sussistrom.github.io/instagram.jpeg)
 
 _*bild på UC märke*_
