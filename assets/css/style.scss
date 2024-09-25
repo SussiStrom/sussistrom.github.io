@@ -2,9 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
 body {
   background: white;
 }
+
 #container {
   background: white;
+}
+
+img {
+  max-width: 500px;
 }
