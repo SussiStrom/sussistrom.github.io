@@ -4,6 +4,8 @@
 
 * * *
 
+[Bilder från tidigare jobb](./bilder.md).
+
 ## Kontakta oss:
 
 Telefon 076 800 00 25
