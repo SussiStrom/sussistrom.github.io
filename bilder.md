@@ -1,6 +1,6 @@
 ---
 title: Bilder
-description: mer bilder
+description: här kan vi lägga bilder 
 ---
 
-# bilder
+bild 1          bild 2            bild 3
