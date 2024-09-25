@@ -14,7 +14,7 @@ title: WGH bygg i Åmål
 
 Telefon 076 800 00 25
 
-E-mail wghbyggab@hotmail.com
+Maila oss för offert [wghbyggab@hotmail.com](mailto:wghbyggab@hotmail.com)
 
 * * *
 
