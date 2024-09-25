@@ -1,3 +1,7 @@
+---
+title: WGH bygg i Åmål
+---
+
 ## WGH bygg:
 
  _text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text_
