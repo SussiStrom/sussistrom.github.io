@@ -2,13 +2,13 @@
 title: WGH bygg i Åmål
 ---
 
-[Bilder från tidigare jobb](./bilder.md).
-
-* * *
-
 ## WGH bygg:
 
  _text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text_
+
+* * *
+
+[Bilder från tidigare jobb](./bilder.md)
 
 * * *
 
@@ -20,7 +20,7 @@ Telefon [076 800 00 25](tel:+46768000025)
 
 * * *
 
-Kolla vår instagram/facebook
+Kolla vår instagram
 
 [![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/oscarweingartshofer/)
 
