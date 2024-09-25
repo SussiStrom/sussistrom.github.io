@@ -1,4 +1,4 @@
-## Om WGH bygg:
+## WGH bygg:
 
  _text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text_
 
