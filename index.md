@@ -1,5 +1,5 @@
 ---
-title: WGH bygg
+![WGHbygg](/wghbygg.jpg){: .wghbygg}
 ---
 
 ## Om oss:
