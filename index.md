@@ -1,4 +1,4 @@
-[wgh](/wghbygg.jpg)
+![wgh](/wghbygg.jpg){: .wghbygg}
 
 ## Om oss:
 
