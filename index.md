@@ -12,10 +12,9 @@
 * * *
 -->
 
-##### Följ våra senaste projekt på instagram
-
-
-
+Följ våra senaste projekt på instagram
+\
+\
 [![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/oscarweingartshofer/)
 
 ---
