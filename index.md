@@ -1,4 +1,4 @@
-[](/wghbygg.jpg)
+[wgh](/wghbygg.jpg)
 
 ## Om oss:
 
