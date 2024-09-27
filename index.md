@@ -1,6 +1,6 @@
 ![wgh](/wghbygg.jpg){: .wghbygg}
 
-## Om oss:
+#### Om oss:
 
  _text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text_
 
@@ -12,13 +12,13 @@
 * * *
 -->
 
-Följ oss på instagram
+#### Följ våra senaste projekt på instagram
 
 [![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/oscarweingartshofer/)
 
 ---
 
-## Kontakt:
+#### Kontakt:
 
 Maila oss för offert [wghbyggab@hotmail.com](mailto:wghbyggab@hotmail.com)
 
