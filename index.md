@@ -1,5 +1,8 @@
 ![wgh](/wghbygg.jpg){: .wghbygg}
 
+---
+---
+
 ## Om oss:
 
  _text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text_
