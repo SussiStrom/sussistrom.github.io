@@ -4,9 +4,11 @@
 
 * * *
 
+<!--
 [Bilder från tidigare jobb](./bilder.md)
 
 * * *
+-->
 
 ## Kontakt:
 
