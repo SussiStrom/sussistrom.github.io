@@ -1,3 +1,5 @@
+# [](./wghbygg.jpg)
+
 ## Om oss:
 
  _text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text_
