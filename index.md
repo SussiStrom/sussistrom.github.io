@@ -12,7 +12,7 @@
 
 #### Följ oss på instagram
 \
-[![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/oscarweingartshofer/)
+[![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/wghbygg/)
 
 ---
 
