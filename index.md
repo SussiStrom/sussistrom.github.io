@@ -12,12 +12,6 @@ Välj WGH Bygg för ditt nästa byggprojekt och upplev den skillnad som äkta kv
 
 ---
 
-<!--
-[Bilder från tidigare jobb](./bilder.md)
-
-* * *
--->
-
 #### Följ oss på instagram
 \
 [![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/wghbygg/)
