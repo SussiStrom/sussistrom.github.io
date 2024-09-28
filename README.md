@@ -1,1 +1,1 @@
-använt tema: https://github.com/pages-themes/tactile
+jekyll theme used: https://github.com/pages-themes/tactile
