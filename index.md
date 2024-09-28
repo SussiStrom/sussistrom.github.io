@@ -1,5 +1,4 @@
 ![wgh](/wghbygg.jpg){: .wghbygg}
-# - din snickare i Åmål
 
 Välkommen till WGH Bygg, ett seriöst och pålitligt byggföretag som värdesätter kvalitet högt. Med över 10 års erfarenhet inom branschen är vi stolta över att erbjuda skräddarsydda lösningar för alla typer av byggprojekt, oavsett om de är stora eller små.
 
