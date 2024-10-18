@@ -27,4 +27,5 @@ Telefon [076 800 00 25](tel:+46768000025)
 ---
 
 ![UC](/UC.png){: .uc}
-[Omdömen](https://www.reco.se/wgh-bygg-ab)
+
+[Omdömen](https://www.reco.se/wgh-bygg-ab){: .reco}
