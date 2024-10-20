@@ -15,8 +15,6 @@ Välj WGH Bygg för ditt nästa byggprojekt och upplev den skillnad som äkta kv
 #### Följ oss på instagram
 \
 [![instagram](ig_logo.png){: .instagram}](https://www.instagram.com/wghbygg/)
-\
-[Kundomdömen](https://www.reco.se/wgh-bygg-ab)
 
 ---
 
@@ -25,6 +23,8 @@ Välj WGH Bygg för ditt nästa byggprojekt och upplev den skillnad som äkta kv
 Maila oss för offert [wghbyggab@hotmail.com](mailto:wghbyggab@hotmail.com)
 
 Telefon Oscar [076 800 00 25](tel:+46768000025)
+
+Har du anlitat oss tidigare? Berätta gärna vad du tycker och läs andras omdömen [här!](https://www.reco.se/wgh-bygg-ab)
 
 ---
 
