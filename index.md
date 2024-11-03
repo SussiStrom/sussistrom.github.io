@@ -24,11 +24,9 @@ Maila oss för offert [wghbyggab@hotmail.com](mailto:wghbyggab@hotmail.com)
 
 Telefon Oscar [076 800 00 25](tel:+46768000025)
 
+---
 
 <iframe src="https://widget.reco.se/v2/widget/5180025?mode=HORIZONTAL_QUOTE&inverted=false&border=true" title="Wgh Bygg AB - Omdömen på Reco" height="225" style="width:100%;border:0;display:block;overflow: hidden;" data-reactroot=""></iframe>
-
-
-Har du anlitat oss tidigare? Berätta gärna vad du tycker och läs andras omdömen [här!](https://www.reco.se/wgh-bygg-ab)
 
 ---
 
