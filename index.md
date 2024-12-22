@@ -28,7 +28,7 @@ Telefon Oscar [076 800 00 25](tel:+46768000025)
 
 <iframe src="https://widget.reco.se/v2/widget/5180025?mode=HORIZONTAL_QUOTE&inverted=false&border=true" title="Wgh Bygg AB - Omdömen på Reco" height="225" style="width:100%;border:0;display:block;overflow: hidden;" data-reactroot=""></iframe>
 
-https://www.reco.se/wgh-bygg-ab?share=venueBadge&shareId=Badge2024&color=blue
+<iframe src="https://www.reco.se/wgh-bygg-ab?share=venueBadge&shareId=Badge2024&color=blue></iframe>
 ---
 
 ![UC](/UC.png){: .uc}
