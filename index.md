@@ -20,14 +20,14 @@ Välj WGH Bygg för ditt nästa byggprojekt och upplev den skillnad som äkta kv
 
 ---
 
-## Kontakta oss så hittar vi en lösning för just dig:
+## Kontakta oss så hittar vi en lösning på ditt problem:
 \
 Maila oss på [wghbyggab@hotmail.com](mailto:wghbyggab@hotmail.com)
 
 Telefon Oscar [076 800 00 25](tel:+46768000025)
 
 ---
-## Läs tidigare kunders omdöme:
+## Läs tidigare kunders omdömen:
 
 <iframe src="https://widget.reco.se/v2/widget/5180025?mode=HORIZONTAL_QUOTE&inverted=false&border=true" title="Wgh Bygg AB - Omdömen på Reco" height="225" style="width:100%;border:0;display:block;overflow: hidden;" data-reactroot=""></iframe>
 
@@ -37,4 +37,4 @@ Telefon Oscar [076 800 00 25](tel:+46768000025)
 ![UC](/UC.png){: .uc}
 
 ## Vi utgår från Åmål mot Dalsland och Värmland
-## Säffle Bengtsfors Karlstad Mellerud
+## Säffle Bengtsfors Grums Karlstad Mellerud
