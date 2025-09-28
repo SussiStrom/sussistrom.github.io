@@ -1,6 +1,6 @@
 ![wgh](/wghbygg.jpg){: .wghbygg}
 
-# Din pålitliga snickare i Åmål för bygg och renovering
+# Din snickare i Åmål för bygg och renovering
 
 Välkommen till WGH Bygg, ett seriöst och pålitligt byggföretag som värdesätter kvalitet högt. Med över 10 års erfarenhet inom branschen är vi stolta över att erbjuda skräddarsydda lösningar för alla typer av byggprojekt, oavsett om de är stora eller små.
 
@@ -32,9 +32,12 @@ Telefon Oscar [076 800 00 25](tel:+46768000025)
 
 <iframe src="https://widget.reco.se/v2/widget/5180025?mode=HORIZONTAL_QUOTE&inverted=false&border=true" title="Wgh Bygg AB - Omdömen på Reco" height="225" style="width:100%;border:0;display:block;overflow: hidden;" data-reactroot=""></iframe>
 
+---
+
 ## Vi utgår från Åmål mot Dalsland och Värmland
 ## Säffle Bengtsfors Grums Karlstad Mellerud
 
+---
 
 ![rek](/reco_rek.svg){: .rek}   ![ae_sigill](/ae_sigill.png){: .ae_sigill}
 ---
